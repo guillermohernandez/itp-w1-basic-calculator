@@ -1,1 +1,1 @@
-from .main import main
+from .main import basic_calculator

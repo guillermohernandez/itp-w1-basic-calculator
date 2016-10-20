@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import unittest
 
-from basic_calculator import main
+from basic_calculator import basic_calculator
 
 
 class TestBasicCalculator(unittest.TestCase):
