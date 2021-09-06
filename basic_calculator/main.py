@@ -13,6 +13,12 @@ def basic_calculator(num1, num2, operation):
         
     elif operation == "divide":
         return num1 / num2
+    
+    elif operation == "square1":
+        return num1*num1
+    
+    elif operation == "square2":
+        return num2*num2
         
     else:
         return "Invalid operation"
